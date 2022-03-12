@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tablas_Multiplicar</string>
+
+    <string-array name="ComboTabla">
+        <item>Seleccione una opción</item>
+        <item>Tabla 1</item>
+        <item>Tabla 2</item>
+        <item>Tabla 3</item>
+        <item>Tabla 4</item>
+        <item>Tabla 5</item>
+        <item>Tabla 6</item>
+        <item>Tabla 7</item>
+        <item>Tabla 8</item>
+        <item>Tabla 9</item>
+        <item>Tabla 10</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string name="Informacion">Esta aplicación fue completamente desarrollada por: Melvin Josué Pereira Amaya.</string>
+    <string name="txtedit">Ingrese el numero...</string>
+    <string name="button">Generar</string>
+    <string name="titulo">Generar Tablas de Multiplicar</string>
+</resources>
